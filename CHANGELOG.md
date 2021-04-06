@@ -1,5 +1,15 @@
 <code>
 
+# [0.4.0 @ 2021-04-06](https://github.com/cogsmith/test/releases/tag/0.4.0)
+
+## DIFF
+- [0 COMMITS SINCE LAST TAG = 0.3.1](https://github.com/cogsmith/test/compare/0.3.1...0.4.0)
+
+</code>
+
+---
+<code>
+
 # [0.3.1 @ 2021-04-06](https://github.com/cogsmith/test/releases/tag/0.3.1)
 
 ## DIFF
